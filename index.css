@@ -1,0 +1,25 @@
+@font-face {
+    font-family: font1;
+    src: url('fonts/font1.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: font2;
+    src: url('fonts/font2.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: font3;
+    src: url('fonts/font3.ttf') format('truetype');
+}
+
+body {
+    font-family: font3, sans-serif;
+}
+
+#logo1{
+    height: 50px;
+    position: absolute;
+    top: -9px;
+    border-radius: 5px;
+}
