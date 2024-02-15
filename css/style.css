@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #52D681;
+  color: #81D5ED;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #52D681;
+  color: #81D5ED;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #52D681;
+  background: #52a1d6;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #52D681;
+  background: #81D5ED;
 }
 
 ::selection {
   color: #fff;
-  background: #52D681;
+  background: #81D5ED;
 }
 
 .gtco-container {
