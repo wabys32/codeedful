@@ -1,3 +1,5 @@
 document.getElementById("copyright_text").innerHTML = "© " + new Date().getFullYear() + " codeedful";
 
-console.log("asd")
+function goToLink(url) {
+    window.open(url, '_blank');
+}
