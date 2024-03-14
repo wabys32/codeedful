@@ -280,6 +280,14 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #52D681 !important;
 }
 
+img {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
 #gtco-intro h2 {
   margin: 0 0 30px 0;
   padding: 0;
@@ -906,4 +914,7 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+
+#image_link{
+  margin-left: 13px;
+}
